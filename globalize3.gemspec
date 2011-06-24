@@ -4,7 +4,7 @@ require 'globalize3/version'
 
 Gem::Specification.new do |s|
   s.name         = 'globalize3'
-  s.version      = Globalize3::VERSION
+  s.version      = '0.1.0.beta'
   s.authors      = ['Sven Fuchs', 'Joshua Harvey', 'Clemens Kofler', 'John-Paul Bader']
   s.email        = 'nobody@globalize-rails.org'
   s.homepage     = 'http://github.com/svenfuchs/globalize3'
